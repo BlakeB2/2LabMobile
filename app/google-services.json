@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001517194468",
+    "firebase_url": "https://labwhatsapp-86b97.firebaseio.com",
+    "project_id": "labwhatsapp-86b97",
+    "storage_bucket": "labwhatsapp-86b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001517194468:android:aa267960cc98f960fda0f1",
+        "android_client_info": {
+          "package_name": "com.Lab2.WhatsAppC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001517194468-6m34rmjvvte3tnetpn3i3u3rk6p3le8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA86-kRxSbYAkBbocRdEczmIGwyaCC25Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001517194468-6m34rmjvvte3tnetpn3i3u3rk6p3le8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
